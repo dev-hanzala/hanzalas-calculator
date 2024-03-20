@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/dev-hanzala/hanzalas-calculator/issues"
   },
-  "homepage": "https://github.com/dev-hanzala/hanzalas-calculator#readme"
+  "homepage": "https://github.com/dev-hanzala/hanzalas-calculator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
 }
